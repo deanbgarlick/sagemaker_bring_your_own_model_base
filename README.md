@@ -8,4 +8,4 @@ sh train_local.sh
 sh serve_local.sh
 ```
 
-Then in a new terminal cd into local_test and run ```sh predict.sh```
+Then in a new terminal cd into local_test and run ```sh predict.sh payload.csv```
